@@ -1,0 +1,21 @@
+#title {
+    color: blue;
+    text-align: center;
+}
+
+.bullet {
+    color: orange;
+    border: 1px solid black;
+    padding: 40px;
+    margin: 10px;
+    
+}
+
+div {
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+  
